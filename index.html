@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Great Decider</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main>
+    <h1>The Great Decider</h1>
+    <p>Select a category to get inspired, or click on custom to add your own ideas!</p>
+
+    <h2>Choose a category:</h2>
+    <div id="category" class="category-grid">
+      <button id="activities" class="category-card" style="background-image: url('./img/activities.jpeg')">
+        <span>Activities</span>
+      </button>
+      <button id="food" class="category-card" style="background-image: url('./img/food.jpeg')">
+        <span>Food</span>
+      </button>
+      <button id="movies" class="category-card" style="background-image: url('./img/movies.jpeg')">
+        <span>Movies</span>
+      </button>
+      <button id="places" class="category-card" style="background-image: url('./img/places.jpeg')">
+        <span>Places to Visit</span>
+      </button>
+      <button id="books" class="category-card" style="background-image: url('./img/book.jpeg')">
+        <span>Books</span>
+      </button>
+      <button id="games" class="category-card" style="background-image: url('./img/games.jpeg')">
+        <span>Video Games</span>
+      </button>
+      <button id="music" class="category-card" style="background-image: url('./img/music.jpeg')">
+        <span>Music</span>
+      </button>
+      <button id="sport" class="category-card" style="background-image: url('./img/sport.jpeg')">
+        <span>Sport</span>
+      </button>
+      <button id="cars" class="category-card" style="background-image: url('./img/cars.jpeg')">
+        <span>Cars</span>
+      </button>
+      <button id="fruits" class="category-card" style="background-image: url('./img/fruits.jpeg')">
+        <span>Fruits</span>
+      </button>
+      <button id="color" class="category-card" style="background-image: url('./img/color.jpeg')">
+        <span>Color</span>
+      </button>
+      <button id="custom" class="category-card custom">
+        <span>Custom</span>
+      </button>
+    </div>
+
+    <!-- Popup -->
+    <div id="popup">
+      <div class="popup-content">
+        <h3 id="category-title"></h3>
+
+        <div class="popup-controls">
+          <input type="text" id="popup-input" placeholder="Add a new option..." />
+          <button id="popup-add-btn">Add</button>
+        </div>
+        
+        <div id="option-list" class="option-list"></div>
+
+        <div class="roulette">
+          <div id="item-strip"></div>
+          <div class="indicator"></div>
+        </div>
+
+        <button id="randomize-btn">🎲 Randomize 🎲</button>
+        <h3 id="final-result"></h3>
+        <button id="close-btn">✖</button>
+      </div>
+    </div>
+
+    <p id="error-message" class="hidden"></p>
+  </main>
+
+  <script src="./config,js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>

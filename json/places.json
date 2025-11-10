@@ -1,0 +1,125 @@
+{
+    "places": [
+      {
+        "name": "Paris, France",
+        "image": "https://source.unsplash.com/featured/?paris,eiffel-tower"
+      },
+      {
+        "name": "Tokyo, Japan",
+        "image": "https://source.unsplash.com/featured/?tokyo,shibuya"
+      },
+      {
+        "name": "New York City, USA",
+        "image": "https://source.unsplash.com/featured/?newyork,manhattan"
+      },
+      {
+        "name": "London, United Kingdom",
+        "image": "https://source.unsplash.com/featured/?london,bridge"
+      },
+      {
+        "name": "Rome, Italy",
+        "image": "https://source.unsplash.com/featured/?rome,colosseum"
+      },
+      {
+        "name": "Bangkok, Thailand",
+        "image": "https://source.unsplash.com/featured/?bangkok,temple"
+      },
+      {
+        "name": "Dubai, United Arab Emirates",
+        "image": "https://source.unsplash.com/featured/?dubai,burj-khalifa"
+      },
+      {
+        "name": "Singapore",
+        "image": "https://source.unsplash.com/featured/?singapore,marina-bay"
+      },
+      {
+        "name": "Barcelona, Spain",
+        "image": "https://source.unsplash.com/featured/?barcelona,sagrada-familia"
+      },
+      {
+        "name": "Istanbul, Türkiye",
+        "image": "https://source.unsplash.com/featured/?istanbul,mosque"
+      },
+      {
+        "name": "Seoul, South Korea",
+        "image": "https://source.unsplash.com/featured/?seoul,cityscape"
+      },
+      {
+        "name": "Sydney, Australia",
+        "image": "https://source.unsplash.com/featured/?sydney,opera-house"
+      },
+      {
+        "name": "Los Angeles, USA",
+        "image": "https://source.unsplash.com/featured/?losangeles,hollywood"
+      },
+      {
+        "name": "Bali, Indonesia",
+        "image": "https://source.unsplash.com/featured/?bali,beach"
+      },
+      {
+        "name": "Amsterdam, Netherlands",
+        "image": "https://source.unsplash.com/featured/?amsterdam,canal"
+      },
+      {
+        "name": "Prague, Czech Republic",
+        "image": "https://source.unsplash.com/featured/?prague,castle"
+      },
+      {
+        "name": "Venice, Italy",
+        "image": "https://source.unsplash.com/featured/?venice,canal"
+      },
+      {
+        "name": "Cairo, Egypt",
+        "image": "https://source.unsplash.com/featured/?cairo,pyramids"
+      },
+      {
+        "name": "Honolulu, Hawaii, USA",
+        "image": "https://source.unsplash.com/featured/?honolulu,beach"
+      },
+      {
+        "name": "Cape Town, South Africa",
+        "image": "https://source.unsplash.com/featured/?capetown,table-mountain"
+      },
+      {
+        "name": "Athens, Greece",
+        "image": "https://source.unsplash.com/featured/?athens,acropolis"
+      },
+      {
+        "name": "Toronto, Canada",
+        "image": "https://source.unsplash.com/featured/?toronto,cityscape"
+      },
+      {
+        "name": "Rio de Janeiro, Brazil",
+        "image": "https://source.unsplash.com/featured/?rio,christ-the-redeemer"
+      },
+      {
+        "name": "Hong Kong, China",
+        "image": "https://source.unsplash.com/featured/?hongkong,skyline"
+      },
+      {
+        "name": "Kyoto, Japan",
+        "image": "https://source.unsplash.com/featured/?kyoto,temple"
+      },
+      {
+        "name": "Reykjavik, Iceland",
+        "image": "https://source.unsplash.com/featured/?reykjavik,northern-lights"
+      },
+      {
+        "name": "San Francisco, USA",
+        "image": "https://source.unsplash.com/featured/?sanfrancisco,golden-gate"
+      },
+      {
+        "name": "Lisbon, Portugal",
+        "image": "https://source.unsplash.com/featured/?lisbon,tram"
+      },
+      {
+        "name": "Marrakech, Morocco",
+        "image": "https://source.unsplash.com/featured/?marrakech,market"
+      },
+      {
+        "name": "Zurich, Switzerland",
+        "image": "https://source.unsplash.com/featured/?zurich,lake"
+      }
+    ]
+  }
+  

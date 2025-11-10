@@ -1,0 +1,33 @@
+{
+    "colors": [
+      { "name": "Red" },
+      { "name": "Blue" },
+      { "name": "Green" },
+      { "name": "Yellow" },
+      { "name": "Orange" },
+      { "name": "Purple" },
+      { "name": "Pink" },
+      { "name": "Cyan" },
+      { "name": "Magenta" },
+      { "name": "Teal" },
+      { "name": "Lavender" },
+      { "name": "Indigo" },
+      { "name": "Maroon" },
+      { "name": "Olive" },
+      { "name": "Turquoise" },
+      { "name": "Gold" },
+      { "name": "Silver" },
+      { "name": "Beige" },
+      { "name": "Crimson" },
+      { "name": "Navy" },
+      { "name": "Violet" },
+      { "name": "Peach" },
+      { "name": "Mint" },
+      { "name": "Coral" },
+      { "name": "Chocolate" },
+      { "name": "Ivory" },
+      { "name": "Black" },
+      { "name": "White" }
+    ]
+}
+  

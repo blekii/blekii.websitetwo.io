@@ -1,0 +1,30 @@
+{
+    "sports": [
+      { "name": "Basketball" },
+      { "name": "Soccer" },
+      { "name": "Tennis" },
+      { "name": "Baseball" },
+      { "name": "Volleyball" },
+      { "name": "Table Tennis" },
+      { "name": "Badminton" },
+      { "name": "Golf" },
+      { "name": "Rugby" },
+      { "name": "Cricket" },
+      { "name": "Hockey" },
+      { "name": "American Football" },
+      { "name": "Boxing" },
+      { "name": "Wrestling" },
+      { "name": "Martial Arts" },
+      { "name": "Surfing" },
+      { "name": "Skateboarding" },
+      { "name": "Cycling" },
+      { "name": "Running" },
+      { "name": "Swimming" },
+      { "name": "Bowling" },
+      { "name": "Skiing" },
+      { "name": "Snowboarding" },
+      { "name": "Rock Climbing" },
+      { "name": "Gymnastics" }
+    ]
+  }
+  

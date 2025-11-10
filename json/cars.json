@@ -1,0 +1,33 @@
+{
+    "cars": [
+      { "name": "Ferrari" },
+      { "name": "Lamborghini" },
+      { "name": "Porsche" },
+      { "name": "Tesla" },
+      { "name": "BMW" },
+      { "name": "Mercedes-Benz" },
+      { "name": "Audi" },
+      { "name": "Toyota Supra" },
+      { "name": "Nissan GT-R" },
+      { "name": "Chevrolet Corvette" },
+      { "name": "Ford Mustang" },
+      { "name": "McLaren" },
+      { "name": "Bugatti" },
+      { "name": "Koenigsegg" },
+      { "name": "Aston Martin" },
+      { "name": "Subaru WRX" },
+      { "name": "Mazda RX-7" },
+      { "name": "Honda Civic Type R" },
+      { "name": "Volkswagen Golf GTI" },
+      { "name": "Dodge Challenger" },
+      { "name": "Jeep Wrangler" },
+      { "name": "Range Rover" },
+      { "name": "Lexus LC500" },
+      { "name": "Alfa Romeo Giulia" },
+      { "name": "Pagani Huayra" },
+      { "name": "Chevrolet Camaro" },
+      { "name": "Toyota GR86" },
+      { "name": "Hyundai Ioniq 5" }
+    ]
+  }
+  

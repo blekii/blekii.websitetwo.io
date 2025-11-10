@@ -1,0 +1,30 @@
+{
+    "fruits": [
+      { "name": "Apple" },
+      { "name": "Banana" },
+      { "name": "Orange" },
+      { "name": "Mango" },
+      { "name": "Strawberry" },
+      { "name": "Blueberry" },
+      { "name": "Pineapple" },
+      { "name": "Watermelon" },
+      { "name": "Cherry" },
+      { "name": "Kiwi" },
+      { "name": "Peach" },
+      { "name": "Pear" },
+      { "name": "Grape" },
+      { "name": "Pomegranate" },
+      { "name": "Papaya" },
+      { "name": "Dragon Fruit" },
+      { "name": "Lemon" },
+      { "name": "Coconut" },
+      { "name": "Raspberry" },
+      { "name": "Blackberry" },
+      { "name": "Plum" },
+      { "name": "Guava" },
+      { "name": "Lychee" },
+      { "name": "Fig" },
+      { "name": "Melon" }
+    ]
+  }
+  

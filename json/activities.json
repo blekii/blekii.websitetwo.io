@@ -1,0 +1,85 @@
+{
+    "activities": [
+      {
+        "name": "Go bowling with friends",
+        "image": "https://cdn.pixabay.com/photo/2014/01/03/02/48/bowling-237905_1280.jpg"
+      },
+      {
+        "name": "Try a new coffee shop",
+        "image": "https://cdn.pixabay.com/photo/2017/07/31/11/22/man-2557408_640.jpg"
+      },
+      {
+        "name": "Have a movie night",
+        "image": "https://cdn.pixabay.com/photo/2023/11/08/15/54/ai-generated-8375142_640.jpg"
+      },
+      {
+        "name": "Play basketball or soccer at the park",
+        "image": "https://cdn.pixabay.com/photo/2021/10/07/08/59/basketball-6687953_1280.jpg"
+      },
+      {
+        "name": "Go thrifting or vintage shopping",
+        "image": "https://cdn.pixabay.com/photo/2016/11/30/12/29/bicycle-1872682_640.jpg"
+      },
+      {
+        "name": "Take a day trip to the beach or a nearby city",
+        "image": "https://cdn.pixabay.com/photo/2018/05/02/17/22/beach-3369140_640.jpg"
+      },
+      {
+        "name": "Have a late-night food run",
+        "image": "https://cdn.pixabay.com/photo/2014/07/08/13/43/donalds-387237_640.jpg"
+      },
+      {
+        "name": "Host a game night",
+        "image": "hhttps://cdn.pixabay.com/photo/2019/05/04/16/55/gambling-4178462_640.jpg"
+      },
+      {
+        "name": "Go on a hike or scenic walk",
+        "image": "https://cdn.pixabay.com/photo/2021/02/05/01/22/man-5983064_640.jpg"
+      },
+      {
+        "name": "Try making your own pizza",
+        "image": "https://cdn.pixabay.com/photo/2019/12/11/06/36/pizza-4687558_640.jpg"
+      },
+      {
+        "name": "Go skating or rollerblading",
+        "image": "https://cdn.pixabay.com/photo/2017/10/08/11/27/skating-2829591_640.jpg"
+      },
+      {
+        "name": "Attend a local concert or open mic night",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/06/17/audience-1867754_1280.jpg"
+      },
+      {
+        "name": "Have a photoshoot with friends",
+        "image": "https://example.com/images/photoshoot.jpg"
+      },
+      {
+        "name": "Go for a night drive with music blasting",
+        "image": "https://example.com/images/night-drive.jpg"
+      },
+      {
+        "name": "Cook dinner together with friends",
+        "image": "https://example.com/images/cook-dinner.jpg"
+      },
+      {
+        "name": "Try a new workout or dance class",
+        "image": "https://example.com/images/workout.jpg"
+      },
+      {
+        "name": "Visit an escape room or arcade",
+        "image": "https://example.com/images/arcade.jpg"
+      },
+      {
+        "name": "Do a DIY project or room makeover",
+        "image": "https://example.com/images/diy.jpg"
+      },
+      {
+        "name": "Go stargazing late at night",
+        "image": "https://example.com/images/stargazing.jpg"
+      },
+      {
+        "name": "Take a spontaneous road trip",
+        "image": "https://example.com/images/roadtrip.jpg"
+      }
+    ]
+  }
+  

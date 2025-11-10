@@ -1,0 +1,34 @@
+{
+    "foods": [
+      { "name": "Spaghetti Carbonara", "type": "main" },
+      { "name": "Grilled Chicken Teriyaki", "type": "main" },
+      { "name": "Beef Tacos", "type": "main" },
+      { "name": "Margherita Pizza", "type": "main" },
+      { "name": "Butter Chicken", "type": "main" },
+  
+      { "name": "Mozzarella Sticks", "type": "appetizer" },
+      { "name": "Bruschetta", "type": "appetizer" },
+      { "name": "Stuffed Mushrooms", "type": "appetizer" },
+      { "name": "Spring Rolls", "type": "appetizer" },
+      { "name": "Garlic Bread", "type": "appetizer" },
+  
+      { "name": "Cheesecake", "type": "dessert" },
+      { "name": "Chocolate Lava Cake", "type": "dessert" },
+      { "name": "Tiramisu", "type": "dessert" },
+      { "name": "Ice Cream Sundae", "type": "dessert" },
+      { "name": "Apple Pie", "type": "dessert" },
+  
+      { "name": "Iced Coffee", "type": "drink" },
+      { "name": "Lemonade", "type": "drink" },
+      { "name": "Mango Smoothie", "type": "drink" },
+      { "name": "Green Tea", "type": "drink" },
+      { "name": "Sparkling Water", "type": "drink" },
+  
+      { "name": "French Fries", "type": "side" },
+      { "name": "Mashed Potatoes", "type": "side" },
+      { "name": "Coleslaw", "type": "side" },
+      { "name": "Steamed Vegetables", "type": "side" },
+      { "name": "Garlic Rice", "type": "side" }
+    ]
+  }
+  
