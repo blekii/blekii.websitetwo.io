@@ -37,7 +37,7 @@ async function loadCategory(cat) {
 			const data = await res.json();
 			options = data.foods.map(food => food.name);
     } else if (cat === "movies") {
-			const res = await fetch("/.netlify/functions/tmdb");
+			const res = await fetch("/api/tmdb");
 			const data = await res.json();
 			options = data.results.map(movie => movie.title);
     } else if (cat === "places") {
@@ -45,11 +45,11 @@ async function loadCategory(cat) {
 			const data = await res.json();
 			options = data.places.map(place => place.name);
     } else if (cat === "books") {
-			const res = await fetch("/.netlify/functions/books");
+			const res = await fetch("/api/books");
 			const data = await res.json();
 			options = data.items.map(item => item.volumeInfo.title);
     } else if (cat === "games") {
-			const res = await fetch("/.netlify/functions/games");
+			const res = await fetch("/api/games");
 			const data = await res.json();
 			options = data.slice(0, 30).map(game => game.title);
     } else if (cat === "music") {
