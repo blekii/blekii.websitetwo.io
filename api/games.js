@@ -1,10 +1,10 @@
-export async function handler() {
-    try {
-      const res = await fetch("https://www.freetogame.com/api/games");
-      const data = await res.json();
-      return { statusCode: 200, body: JSON.stringify(data) };
-    } catch (err) {
-      return { statusCode: 500, body: JSON.stringify({ error: "Games fetch failed" }) };
-    }
+// api/games.js
+export default async function handler(req, res) {
+  try {
+    const response = await fetch("https://www.freetogame.com/api/games");
+    const data = await response.json();
+    res.status(200).json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Games fetch failed", details: error.message });
   }
-  
+}

@@ -1,12 +1,12 @@
-export async function handler() {
-    try {
-      const res = await fetch(
-        `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.TMDB_API_KEY}&language=en-US`
-      );
-      const data = await res.json();
-      return { statusCode: 200, body: JSON.stringify(data) };
-    } catch (err) {
-      return { statusCode: 500, body: JSON.stringify({ error: "TMDB fetch failed" }) };
-    }
+// api/tmdb.js
+export default async function handler(req, res) {
+  try {
+    const response = await fetch(
+      `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.TMDB_API_KEY}&language=en-US`
+    );
+    const data = await response.json();
+    res.status(200).json(data);
+  } catch (error) {
+    res.status(500).json({ error: "TMDB fetch failed", details: error.message });
   }
-  
+}
