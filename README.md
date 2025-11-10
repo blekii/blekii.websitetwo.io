@@ -10,3 +10,5 @@ Features:
 - Catches most (hopefully all cases)
 - Uses api calls for most updated and relevant options like songs and movies
 - Audio for randomizer
+
+Small thing: book category actually randomizes between 5 genres so user might get different options every time they reopen
